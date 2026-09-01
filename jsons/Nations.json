@@ -30,10 +30,11 @@
 
 		"outerColor": [255,255,255],
 		"innerColor": [230,75,0],
-		"uniqueName": "The First Empire",
+		"uniqueName": "King of the Four Quarters",
 		"uniques": [
-			"-50% Unhappiness in all Cities",
-			"+50% Gold in all Cities",
+			"+20% Science in all Cities",
+			"+20% Culture in all Cities",
+			"+20% Gold in all Cities",
 		]
 		"cities": ["Akkad", "Agade", "Kish", "Ur", "Uruk", "Lagash", "Nippur", "Eridu", "Sippar"]
 	}
