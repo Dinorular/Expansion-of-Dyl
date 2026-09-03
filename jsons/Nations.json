@@ -32,9 +32,10 @@
 		"innerColor": [230,75,0],
 		"uniqueName": "King of the Four Quarters",
 		"uniques": [
-			"+20% Science in all Cities",
-			"+20% Culture in all Cities",
-			"+20% Gold in all Cities",
+			"[-20]% Unhappiness in all Cities",
+			"[+1 Culture] in all Cities",
+			"[+1 Science] in all Cities",
+			"[+1 Gold] in all Cities,"
 		]
 		"cities": ["Akkad", "Agade", "Kish", "Ur", "Uruk", "Lagash", "Nippur", "Eridu", "Sippar"]
 	}
