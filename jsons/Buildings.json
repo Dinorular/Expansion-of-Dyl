@@ -21,6 +21,8 @@
 		"food": 2,
 		"production": 2,
 		"faith": 1,
-		"uniques": "Destroyed when the city is captured"
+		"uniques": [
+			"Destroyed when the city is captured"
+		]
 	}
 ]
