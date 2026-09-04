@@ -35,7 +35,7 @@
 			"-25% Unhappiness in all cities",
 			"[+1 Culture] [in all cities]",
 			"[+1 Science] [in all cities]",
-			"[+10 Gold],"
+			"[+10 Gold]",
 		]
 		"cities": ["Akkad", "Agade", "Kish", "Ur", "Uruk", "Lagash", "Nippur", "Eridu", "Sippar"]
 	}
