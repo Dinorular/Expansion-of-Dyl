@@ -57,15 +57,15 @@
 		"cities": ["Cahokia", "Moundville", "Etowah", "Spiro", "Kincaid"]
 	},
 	{
-		"name": "Jomon",
+		"name": "Jōmon",
 		"leaderName": "Dogu",
-		"adjective": ["Jomon"],
+		"adjective": ["Jōmon"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
 
 		"outerColor": [0,0,200],
 		"innerColor": [255,255,255],
 		"uniqueName": "Aboriginal Japan",
-		"cities": ["Kyoto", "Tokyo"]
+		"cities": ["Ōshikobu", "Tokyo"]
 	}
 ]
