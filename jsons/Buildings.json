@@ -16,10 +16,9 @@
 		"name": "Ziggurat",
 		"replaces": "Monument",
 		"uniqueTo": "Akkad",
-		"cost": 50,
-		"hurryCostModifier": 80,
+		"cost": 40,
+		"hurryCostModifier": 50,
 		"food": 2,
 		"production": 2,
-		"faith": 1,
 	}
 ]
