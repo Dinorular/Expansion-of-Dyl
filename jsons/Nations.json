@@ -54,7 +54,7 @@
 		"uniques": [
 			"[+5 Food] [in all cities]"
 		],
-		"cities": ["Cahokia", "Moundville",]
+		"cities": ["Cahokia", "Moundville", "Etowah", "Spiro", "Kincaid"]
 	},
 	{
 		"name": "Jomon",
