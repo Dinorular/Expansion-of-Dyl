@@ -42,8 +42,8 @@
 	{
 		"name": "The Mississippians",
 		"leaderName": "Tuskaloosa",
-		"adjective": "Mississippian",
-		"startBias": "Hill",
+		"adjective": ["Mississippian"],
+		"startBias": ["Hill"],
 		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Testing..",
@@ -52,7 +52,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Goose Society",
 		"uniques": [
-			
+			"[+5 Food] [in all cities]"
 		],
 		"cities": ["Cahokia", "Moundville",]
 	}
