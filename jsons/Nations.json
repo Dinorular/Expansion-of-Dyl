@@ -38,5 +38,22 @@
 			"[+2 Faith] [in all cities]",
 		]
 		"cities": ["Akkad", "Agade", "Kish", "Ur", "Uruk", "Lagash", "Nippur", "Eridu", "Sippar"]
+	},
+	{
+		"name": "The Mississippians",
+		"leaderName": "Tuskaloosa",
+		"adjective": "Mississippian",
+		"startBias": "Hill",
+		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Testing..",
+
+		"outerColor": [50,50,50],
+		"innerColor": [255,255,255],
+		"uniqueName": "Goose Society",
+		"uniques": [
+			
+		],
+		"cities": ["Cahokia", "Moundville",]
 	}
 ]
