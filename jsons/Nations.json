@@ -63,7 +63,7 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Cultural",
 
-		"outerColor": [255,50,50],
+		"outerColor": [0,0,200],
 		"innerColor": [255,255,255],
 		"uniqueName": "Aboriginal Japan",
 		"cities": ["Kyoto", "Tokyo"]
