@@ -68,7 +68,7 @@
 		"uniqueName": "Cord-Marked People",
 		"uniques": [
 			"Enables embarkation for land units",
-			"[+2 Production] [for <Fishing Boats>]"
+			"[+2 Production] [from <Fishing Boats>]"
 		],
 		"cities": ["Sannai-Maruyama", "Ōshikubo", "Goshono", "Ofune", "Isedōtai"]
 	}
