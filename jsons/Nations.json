@@ -67,7 +67,8 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Cord-Marked People",
 		"uniques": [
-			"[+2 Production] [from Fishing Boats]"
+			"Enables embarkation for land units",
+			"[+2 Production] <for [Fishing Boats]>"
 		],
 		"cities": ["Sannai-Maruyama", "Ōshikubo", "Goshono", "Ofune", "Isedōtai"]
 	}
